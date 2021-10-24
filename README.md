@@ -1,5 +1,5 @@
 <p align = "center">
- <h2 align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=21dwvex3enh22lypnm2tvwcsq" alt="Spotify Now Playing" width="1000" />
+ <h2 align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=21dwvex3enh22lypnm2tvwcsq&width=1000"/>
 </p>  
 <h2 align="center">Github Statistics 📈</h2>
 <p align="center"><a href="https://github.com/TyraLizQ10"><img src="https://github-readme-stats.vercel.app/api?username=TyraLizQ10&show_icons=true&theme=dark"></a></p>
