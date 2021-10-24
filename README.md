@@ -4,4 +4,4 @@
 
 <br>
 
-![eunji0115's github page views](https://komarev.com/ghpvc/?username=TyraLizQ10)
+![Nathaniel's github page views](https://komarev.com/ghpvc/?username=TyraLizQ10)
